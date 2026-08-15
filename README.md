@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0836-rectangle-overlap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
