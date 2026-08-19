@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0836-rectangle-overlap) |
+| [2235-add-two-integers](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
