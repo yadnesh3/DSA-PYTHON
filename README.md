@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0836-rectangle-overlap) |
 | [2235-add-two-integers](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2235-add-two-integers) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
