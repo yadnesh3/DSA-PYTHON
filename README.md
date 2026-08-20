@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0509-fibonacci-number) |
@@ -40,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -56,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
