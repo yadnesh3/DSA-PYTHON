@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0836-rectangle-overlap) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1688-count-of-matches-in-tournament) |
 | [2235-add-two-integers](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
@@ -77,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
