@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -78,6 +81,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
