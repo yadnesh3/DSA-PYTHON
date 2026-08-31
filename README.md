@@ -78,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1688-count-of-matches-in-tournament) |
+| [1920-build-array-from-permutation](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1920-build-array-from-permutation) |
 ## Array
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
