@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
