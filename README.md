@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
