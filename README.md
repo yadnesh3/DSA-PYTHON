@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0326-power-of-three) |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1920-build-array-from-permutation) |
