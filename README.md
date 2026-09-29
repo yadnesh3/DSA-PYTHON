@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/yadnesh3/DSA-PYTHON/tree/master/1920-build-array-from-permutation) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,16 +130,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
