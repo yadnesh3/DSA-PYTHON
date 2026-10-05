@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yadnesh3/DSA-PYTHON/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0018-4sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
