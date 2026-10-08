@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0326-power-of-three) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0692-top-k-frequent-words) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/yadnesh3/DSA-PYTHON/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
